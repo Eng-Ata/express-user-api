@@ -1,2 +1,8 @@
-# express-user-api
-A simple Express.js REST API for user management (list, search by id, and signup).
+# Express User API
+
+A simple REST API built with Express.js for basic user management.
+
+## Features
+- List all users (`/listusers`)
+- Get user by ID (`/userby/:id`)
+- Add new user (`/signup`)
